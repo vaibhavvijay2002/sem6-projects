@@ -1,0 +1,29 @@
+<html>
+   <body style = "background-color : lightblue; font-size : 20px; text-align: center">
+      <br><br><br>
+      <h1 style = "font-size : 50px">Arithmetic Microservices</h1>
+      <br><br><br>
+      <form action="" method="POST">
+         Enter the First number : </div> <input name="first">
+         <br><br>
+         Enter the Second number : </div> <input name="second">
+         <br><br>
+         Enter Operation : <select id="op" name="operation">
+            <option value="add">Addition</option>
+            <option value="minus">Subtraction</option>
+            <option value="multiply">Multiplication</option>
+            <option value="divide">Division</option>
+            <option value="greater_than">Greater than</option>
+            <option value="less_than">Less than</option>
+            <option value="equal">Equal</option>
+          </select>
+         </p>
+         <br><br><br>
+         <input type="submit" name="submit_button">
+         <br><br><br><br>
+      </form>
+        {% for message in get_flashed_messages() %}
+         {{message}}
+      {% endfor %}
+   </body>
+</html>
