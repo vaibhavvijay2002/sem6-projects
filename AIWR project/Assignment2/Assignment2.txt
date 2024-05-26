@@ -1,0 +1,38 @@
+Assignment 2:
+Implement a Recommender system by choosing a relevant corpus. 
+Tasks:
+1. Perform EDA on the data. 
+2. Preprocess the data
+3. Use negihborhood based or Model based collaborative filtering for recommendation
+4. Content based recommendation
+5. Analyze the results.
+6. Use suitable evaluation metrics
+
+
+
+Group size of 4 
+Evaluated for 20 and reduced to 10 Marks
+Evaluation Parameters
+1. EDA (2 marks)
+2. Preprocessing of raw data (2 marks)
+3. Results (4 marks)
+4. suitability of Evaluation metrics (2 marks)
+5. Handling Domain specific challenges (2 marks)
+6. Demonstration and Report (4 marks)
+7. Hybrid Model/Knowledge based recommender system (4 marks)
+
+Report contents:
+Problem statement
+Introduction
+Data set description
+EDA
+Preprocessing
+methodology(neighborhood based or model based collaborative filtering)
+Results
+content based recommendation
+Results
+conclusion
+
+
+
+The assignment shall be evaluated for 20 marks and reduced to 10.
